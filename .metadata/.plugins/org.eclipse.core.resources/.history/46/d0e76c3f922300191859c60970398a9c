@@ -1,0 +1,14 @@
+
+public class Capsule {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		Person hanako=new Person("花子",22);
+		System.out.println(hanako.name);
+		System.out.println(hanako.age);
+
+
+
+	}
+
+}

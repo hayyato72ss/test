@@ -1,0 +1,15 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+		Robot asimo=new Robot("asimo",20);
+		System.out.println(asimo.name);
+		System.out.println(asimo.age);
+
+
+
+	}
+
+}
